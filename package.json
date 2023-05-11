@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a node application that creates a professional readme based on user input criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniella Gore",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
+}
