@@ -26,14 +26,8 @@ Use node in your terminal and then answered the asked questions
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-
-## Contributing
-
-undefined
-
-## Tests
-
-N/A 
+## Video Link : 
+https://www.youtube.com/watch?v=sftUnkF7rVo
 
 ## Questions
 
